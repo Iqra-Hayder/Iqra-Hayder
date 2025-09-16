@@ -1,6 +1,6 @@
 <!-- Centered image -->
 <p align="center">
-  <img src="Profile.gif" alt="Profile GIF" width="80%">
+  <img src="Profile.gif" alt="Profile GIF" width="90%">
 </p>
 
 <!-- Text block under image -->
